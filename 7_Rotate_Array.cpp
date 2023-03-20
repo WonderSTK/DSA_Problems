@@ -40,3 +40,15 @@ int main() {
 
     return 0;
 }
+
+
+
+//decond optima solution
+
+for(int m =0; m<k; m++){
+        for(int n=N-1; n>0; n--){
+            int temp = arr[n];
+            arr[n] = arr[n-1];
+            arr[n-1] = temp;
+        }
+    }
