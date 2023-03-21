@@ -52,3 +52,4 @@ for(int m =0; m<k; m++){
             arr[n-1] = temp;
         }
     }
+ok 
