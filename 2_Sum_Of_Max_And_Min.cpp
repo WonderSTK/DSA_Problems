@@ -1,3 +1,4 @@
+
 #include <bits/stdc++.h> 
 int sumOfMaxMin(int arr[], int n){
 	// Write your code here.
