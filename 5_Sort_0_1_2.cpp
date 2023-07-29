@@ -1,4 +1,5 @@
 // (without using sort function )
+// first approach
 // new approach
 #include <bits/stdc++.h> 
 void sort012(int *arr, int n)
