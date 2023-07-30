@@ -1,3 +1,4 @@
+//first approach 
 #include<bits/stdc++.h>
 vector<int> kthSmallLarge(vector<int> &arr, int n, int k)
 {
